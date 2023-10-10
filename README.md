@@ -20,7 +20,7 @@ The C++ code, `password_generator.cpp`, provides a command-line tool to generate
 
 ### To run the C++ code:
 
-```bash
+
 g++ password_generator.cpp -o password_generator
 ./password_generator
 
